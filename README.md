@@ -1,6 +1,6 @@
-# focuslist
+# Focuslist
 
-A new Flutter project.
+A new Flutter project. It is a simple To do list app that I made to practice flutter. It is a simple app that allows you to add and delete tasks. It can also fetch random quotes from an API and display them.
 
 ## Getting Started
 
